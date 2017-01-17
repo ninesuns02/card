@@ -1,0 +1,10 @@
+#if !defined(AFX_SYSTEMPOWER_H__505C9807_D3A5_435F_9705_3418E326A119__INCLUDED_)
+#define AFX_SYSTEMPOWER_H__505C9807_D3A5_435F_9705_3418E326A119__INCLUDED_
+
+#if _MSC_VER > 1000
+#pragma once
+#endif // _MSC_VER > 1000
+// SystemPower.h : header file
+//
+
+#endif
